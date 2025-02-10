@@ -146,7 +146,6 @@ coord.add(f);
 - from
 - to
 - stroke
-- fill
 - transform
 - animation
 - draggable
